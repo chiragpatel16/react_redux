@@ -7,9 +7,13 @@ z# 🔢 Redux Toolkit Counter App A simple counter application built with React 
 -> CSS (for styling)
 
 🚀 Features
+
 ✅ Display current count
+
 ✅ Increment and decrement the count
+
 ✅ Redux Toolkit for state management
+
 ✅ Modern and responsive UI
 
 
