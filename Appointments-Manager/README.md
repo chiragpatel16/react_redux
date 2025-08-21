@@ -1,12 +1,29 @@
-# React + Vite
+📅 Appointments Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Appointments Management App built with React, Redux Toolkit, and localStorage.
+This app allows users to add, update, delete, and clear appointments, with persistent storage in the browser.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+➕ Add Appointment with name, email, date, time, and reason.
 
-## Expanding the ESLint configuration
+✏️ Update Appointment details anytime.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+❌ Delete Appointment individually.
+
+🧹 Clear All Appointments with one click.
+
+💾 Persistent Data – appointments are saved in localStorage so they don’t disappear on refresh.
+
+🛠️ Tech Stack
+
+React.js – UI
+
+Redux Toolkit – state management
+
+localStorage – persistence
+
+Bootstrap / CSS – styling
+
+output vidoe link 
+https://drive.google.com/file/d/1gcA4mH9zeE7e35qWKSlLRuJo-bnjhV2-/view
